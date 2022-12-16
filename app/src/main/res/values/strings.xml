@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrabalhoMBA</string>
+    <string name="titulo_inicio">Login</string>
+    <string name="subtitulo_inicio">
+        Seja bem vindo!
+        <br><b>Login</b>Se você já possui uma conta</br>
+        <br><b>Cadastrar</b>Para começar a usar o App</br>
+    </string>
+    <string name="hint_inicio_email">Digite o seu email</string>
+    <string name="hint_senha_inicio">Digite sua senha</string>
+    <string name="btn_login_text">lOGIN</string>
+    <string name="title_activity_listagem">ListagemActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
